@@ -1,7 +1,6 @@
 # helloworld
-# Just another repository
-<DOCTYPE! html>
-<html>
+Just another repository
+
 <head> </head>
 <body>
 
@@ -66,3 +65,18 @@
     <h4> CSS </h4>
         <ol>
           <li> COnceitos básicos </li>
+          </ol>
+          
+<H1> Calendario de eventos </H1>
+           <table>
+              <tr>
+               <th> Objetivo </th>
+               <th> Data </th>
+               <th> OBS </th>
+              </tr>
+              <tr> 
+               <td> SIMULADO (detran) </td>
+               <td> 02/06/17 </td>
+               <td> estudar por simulados </td>  
+              </tr>
+              </table>
